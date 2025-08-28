@@ -16,5 +16,8 @@
     "url": "https://github.com/priscille-ngondankoy-vinci/email-validator/issues"
   },
   "homepage": "https://github.com/priscille-ngondankoy-vinci/email-validator#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
 }
